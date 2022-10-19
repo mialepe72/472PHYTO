@@ -1,5 +1,6 @@
-# 472PHYTO
+### 472PHYTO
+California State University, Monterey Bay 
+Fall 2022 Biological Oceanography Capstone Course
+California Phytoplankton Group
 
-data sets used for CSUMB MSCI 472 CAPSTONE group 
-
-Phytoplankton group
+Datasets are from ERDDAP site based from the CalHABmap website
